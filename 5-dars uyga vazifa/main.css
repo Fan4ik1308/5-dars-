@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    list-style: none;
+    text-decoration: none;
+}
+body{
+    background-color: #343C56;
+}
+a{
+    color: white;
+}
+.bola{
+    display: flex;
+    justify-content: space-evenly;
+}
+.nabira{
+    width: 200px;
+    height: 40px;
+    background-color: #FF0101;
+    border-radius: 30px;    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.ota{
+    padding: 120px;
+    display: flex;
+    justify-content: space-between;
+}
+.bobo{
+
+width: 200px;
+height: 40px;
+left: 224px;
+right: 1016px;
+top: 104px;
+bottom: 880px;
+}
